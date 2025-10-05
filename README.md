@@ -1,6 +1,4 @@
-## Hi there 👋
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C0FF&width=435&lines=Hi+there+👋,+I'm+Pabitra;Experienced+Web+Developer)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C0FF&width=600&lines=Hello+there+👋;+This+is+Pabitra+Barua;Nice+to+meet+you!!)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
