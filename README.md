@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C0FF&width=600&lines=Hello+there+👋;+This+is+Pabitra+Barua;Nice+to+meet+you!!)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=9c27b0&width=600&lines=Hello+there!+👋;+This+is+Pabitra+Barua;Nice+to+meet+you!!)](https://git.io/typing-svg)
 
 - 🔭 Currently focusing on **Fullstack Development (Frontend + Backend)** 😎
 - 🌱 On a journey to become an **expert Fullstack Developer** ❤
