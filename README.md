@@ -16,6 +16,7 @@
 🎨 CSS3
 💨 Tailwind CSS
 
+
 🧠 Backend
 
 🟢 Node.js
@@ -23,6 +24,7 @@
 🔷 TypeScript (Backend)
 🔗 REST API Development
 🔐 Authentication & Authorization (JWT, Credentials-based)
+
 
 🗄️ Database
 
@@ -32,6 +34,7 @@
 🧠 Server-side Sessions
 🎟️ JWT-based Sessions
 
+
 💳 Payments & Integrations
 
 💳 Stripe Payments
@@ -39,7 +42,9 @@
 🔌 Third-party APIs
 🤖 AI Integrations
 
+
 🚀 DevOps & Deployment
+
 🌿 Git & GitHub
 🔼 Vercel
 ☁️ AWS (EC2, deployment & environment management)
