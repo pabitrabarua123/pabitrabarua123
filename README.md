@@ -6,6 +6,7 @@
 - 💻 Learn best by experimenting, building features, and shipping to production
 
 🛠️ Technical Skills
+
 🎨 Frontend
 ⚛️ React.js
 🔼 Next.js (App Router)
@@ -16,6 +17,7 @@
 💨 Tailwind CSS
 
 🧠 Backend
+
 🟢 Node.js
 🚂 Express.js
 🔷 TypeScript (Backend)
@@ -23,6 +25,7 @@
 🔐 Authentication & Authorization (JWT, Credentials-based)
 
 🗄️ Database
+
 🐬 MySQL
 🧱 Schema Design
 ⚡ Query Optimization
@@ -30,6 +33,7 @@
 🎟️ JWT-based Sessions
 
 💳 Payments & Integrations
+
 💳 Stripe Payments
 🔔 Webhooks
 🔌 Third-party APIs
