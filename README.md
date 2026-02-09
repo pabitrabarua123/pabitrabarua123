@@ -6,21 +6,37 @@
 - 💻 Learn best by experimenting, building features, and shipping to production
 
 🛠️ Technical Skills
+🎨 Frontend
+⚛️ React.js
+🔼 Next.js (App Router)
+🔷 TypeScript
+🟨 JavaScript (ES6+)
+🌐 HTML5
+🎨 CSS3
+💨 Tailwind CSS
 
-Frontend
-React.js, Next.js (App Router), JavaScript (ES6+), HTML5, CSS3, Tailwind CSS
+🧠 Backend
+🟢 Node.js
+🚂 Express.js
+🔷 TypeScript (Backend)
+🔗 REST API Development
+🔐 Authentication & Authorization (JWT, Credentials-based)
 
-Backend
-Node.js, Express.js, REST APIs, Authentication & Authorization
+🗄️ Database
+🐬 MySQL
+🧱 Schema Design
+⚡ Query Optimization
+🧠 Server-side Sessions
+🎟️ JWT-based Sessions
 
-Database
-MySQL, Database Design, Query Optimization
+💳 Payments & Integrations
+💳 Stripe Payments
+🔔 Webhooks
+🔌 Third-party APIs
+🤖 AI Integrations
 
-Tools & DevOps
-Git, GitHub, CI/CD basics, Deployment (cPanel, VPS)
-
-Architecture & Practices
-Clean Architecture, System Design, Performance Optimization, API Design
-
-Integrations
-Payments (Stripe), Third-party APIs, AI Integrations
+🚀 DevOps & Deployment
+🌿 Git & GitHub
+🔼 Vercel
+☁️ AWS (EC2, deployment & environment management)
+🖥️ cPanel
