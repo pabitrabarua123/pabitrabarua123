@@ -49,3 +49,4 @@
 🔼 Vercel
 ☁️ AWS (EC2, deployment & environment management)
 🖥️ cPanel
+🔄 CI/CD Basics
