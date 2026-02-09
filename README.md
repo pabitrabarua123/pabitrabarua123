@@ -5,9 +5,9 @@
 - 📰 Spend time reading documentation and learning from real-world use cases
 - 💻 Learn best by experimenting, building features, and shipping to production
 
-🛠️ Technical Skills
+## 🛠️ Technical Skills
 
-🎨 Frontend
+## Frontend
 ⚛️ React.js
 🔼 Next.js (App Router)
 🔷 TypeScript
@@ -17,7 +17,7 @@
 💨 Tailwind CSS
 
 
-🧠 Backend
+## Backend
 
 🟢 Node.js
 🚂 Express.js
@@ -26,7 +26,7 @@
 🔐 Authentication & Authorization (JWT, Credentials-based)
 
 
-🗄️ Database
+## Database
 
 🐬 MySQL
 🧱 Schema Design
@@ -35,7 +35,7 @@
 🎟️ JWT-based Sessions
 
 
-💳 Payments & Integrations
+## Payments & Integrations
 
 💳 Stripe Payments
 🔔 Webhooks
@@ -43,7 +43,7 @@
 🤖 AI Integrations
 
 
-🚀 DevOps & Deployment
+## DevOps & Deployment
 
 🌿 Git & GitHub
 🔼 Vercel
