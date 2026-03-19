@@ -3,7 +3,6 @@
 - 🔭 Full Stack Web Developer with hands-on experience in frontend and backend
 - 🧩 Focused on building clean, scalable systems with good performance
 - 📰 Spend time reading documentation and learning from real-world use cases
-- 💻 Learn best by experimenting, building features, and shipping to production
 
 ## 🛠️ Technical Skills
 
@@ -21,23 +20,23 @@
 
 🟢 Node.js
 🚂 Express.js
+🟢 NextJS
 🔷 TypeScript (Backend)
 🔗 REST API Development
-🔐 Authentication & Authorization (JWT, Credentials-based)
+🔐 Authentication & Authorization (JWT, Server side session)
 
 
 ## Database
 
 🐬 MySQL
-🧱 Schema Design
-⚡ Query Optimization
-🧠 Server-side Sessions
-🎟️ JWT-based Sessions
+🧱 Prisma ORM, Schema Design 
+⚡ PostgreSQL
+🧠 MongoDB
 
 
 ## Payments & Integrations
 
-💳 Stripe Payments
+💳 Stripe, Instamojo and Paypal
 🔔 Webhooks
 🔌 Third-party APIs
 🤖 AI Integrations
