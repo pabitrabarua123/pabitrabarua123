@@ -21,7 +21,6 @@
 🟢 Node.js
 🚂 Express.js
 🟢 NextJS
-🔷 TypeScript (Backend)
 🔗 REST API Development
 🔐 Authentication & Authorization (JWT, Server side session)
 
@@ -29,7 +28,7 @@
 ## Database
 
 🐬 MySQL
-🧱 Prisma ORM, Schema Design 
+🧱 Prisma ORM, Mongoose Schema Design 
 ⚡ PostgreSQL
 🧠 MongoDB
 
@@ -42,10 +41,9 @@
 🤖 AI Integrations
 
 
-## DevOps & Deployment
+## Version Controll & Deployment
 
 🌿 Git & GitHub
 🔼 Vercel
-☁️ AWS (EC2, deployment & environment management)
-🖥️ cPanel
-🔄 CI/CD Basics
+☁️ AWS (EC2, Deployment, environment mangement)
+🔄 CI/CD Pipeline Basics
