@@ -1,16 +1,16 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=9c27b0&width=600&lines=Hello+there!+👋;+This+is+Pabitra+Barua;Nice+to+meet+you!!)](https://git.io/typing-svg)
 
-- 🔭 Full Stack Web Developer with hands-on experience in frontend and backend
-- 🧩 Focused on building clean, scalable systems with good performance
-- 📰 Spend time reading documentation and learning from real-world use cases
+- 🔭 Focusing on becoming a Senior Full Stack Web Developer, actively building real-world projects and sharpening my skills to an expert level.
+- ❤️ Interested in solving real-world problems through code
+- 🤖 Enjoy working on real-time applications and integrating OpenAI-powered features
 
 ## 🛠️ Technical Skills
 
 ## Frontend
 ⚛️ React.js
-🔼 Next.js (App Router)
+🔼 Next.js (App Router, Page router)
 🔷 TypeScript
-🟨 JavaScript (ES6+)
+🟨 JavaScript (ES6, ES5)
 🌐 HTML5
 🎨 CSS3
 💨 Tailwind CSS
