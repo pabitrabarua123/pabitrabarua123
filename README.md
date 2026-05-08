@@ -1,6 +1,6 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=9c27b0&width=600&lines=Hello+there!+👋;+This+is+Pabitra+Barua;Nice+to+meet+you!!)](https://git.io/typing-svg)
 
-- 🔭 Focusing on becoming a Senior Full Stack Web Developer, actively building real-world projects and sharpening my skills to an expert level.
+- 🔭 Focusing on becoming a Expert Full Stack Web Developer, actively building real-world projects and sharpening my skills to an expert level.
 - ❤️ Interested in solving real-world problems through code
 - 🤖 Enjoy working on real-time applications and integrating OpenAI-powered features
 
