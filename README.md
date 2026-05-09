@@ -45,5 +45,5 @@
 
 🌿 Git & GitHub
 🔼 Vercel
-☁️ AWS (EC2, Deployment, environment mangement)
+☁️ AWS (EC2, Deployment, environment mangement, Linux)
 🔄 CI/CD Pipeline Basics
