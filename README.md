@@ -4,7 +4,7 @@ I am a Full-Stack Developer who enjoys building real-world applications and turn
 
 I have worked on projects involving authentication systems - JWT and Session based, payment gateway integrations like Stripe and PayPal, OpenAI integrations, real-time features - Chat Messaging, and deployment workflows using VERCEL, AWS and CI/CD.
 
-Open to remote opportunities where I can contribute to meaningful products and work with strong engineering teams
+Open to remote opportunities where I can contribute to meaningful products and work with strong engineering teams.
 
 ## 🛠️ Technical Skills
 
