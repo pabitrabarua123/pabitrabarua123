@@ -1,8 +1,10 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=9c27b0&width=600&lines=Hello+there!+👋;+This+is+Pabitra+Barua;Nice+to+meet+you!!)](https://git.io/typing-svg)
 
-- 🔭 Focusing on becoming a Expert Full Stack Web Developer, actively building real-world projects and sharpening my skills to an expert level.
-- ❤️ Interested in solving real-world problems through code
-- 🤖 Enjoy working on real-time applications and integrating OpenAI-powered features
+I am a Full-Stack Developer who enjoys building real-world applications and turning ideas into working products. I work across different parts of an application — from frontend interfaces and backend logic to REST API development, third-party integrations, deployment, and production workflows.
+
+I have worked on projects involving authentication systems - JWT and Session based, payment gateway integrations like Stripe and PayPal, OpenAI integrations, real-time features - Chat Messaging, and deployment workflows using VERCEL, AWS and CI/CD.
+
+Open to remote opportunities where I can contribute to meaningful products and work with strong engineering teams
 
 ## 🛠️ Technical Skills
 
